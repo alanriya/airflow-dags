@@ -8,7 +8,7 @@ default_args = {
     'start_date': datetime(2019, 1, 1),
     'owner': 'Airflow',
 }
-## NULLNULL
+
 def process(p1):
     print(p1)
     return 'done'
